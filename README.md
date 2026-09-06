@@ -3,7 +3,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">Hey! I'm Amrit<br><br>- 📚 I’m a 3rd Year CSE Undergrad<br>- 🔭 I’m passionate about Python Programming, GenAI and LLMs<br>- ⚡ I'm a freelance Video Editor and 3D Animator</p>
+<p align="left">Hey! I'm Amrit<br><br>- 📚 I’m a 4th Year CSE Undergrad<br>- 🔭 AI/ML Developer · Python · NLP · HuggingFace | Shipped Full-Stack AI Apps <br>- ⚡ I'm a freelance Video Editor and 3D Animator</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
