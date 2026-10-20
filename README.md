@@ -29,10 +29,6 @@
 
 Ask questions over a document corpus and get answers that **cite the exact sources** behind them.
 
-<p align="center">
-  <img src="rag-pipeline.svg" alt="RAG pipeline" width="100%"/>
-</p>
-
 - **Hybrid retrieval:** BM25 keyword search plus Chroma vector search, merged and ranked
 - **Quality is measured:** every change is scored with Ragas for faithfulness and answer relevancy
 - **Everything is traced:** Langfuse follows each request end to end
