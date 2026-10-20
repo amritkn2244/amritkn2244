@@ -11,7 +11,7 @@
 
 ## 👋 Hey, I'm Amrit
 
-- 🎓 4th-year B.Tech CSE student at Government College of Engineering, Keonjhar (2023 – 2027), Bhubaneswar, India
+- 🎓 B.Tech CSE student
 - 🧠 I build LLM apps and **measure whether they're actually good**: grounded answers, tracked quality, no guessing
 - 🎬 4+ years as a freelance video editor and motion graphics artist for esports organizations
 - 🏆 All India Rank 31 at the IIT Bombay E-Summit
