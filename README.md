@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Amrit Kumar Nayak - Aspiring AI Engineer" width="100%"/>
+  <img src="header.svg" alt="Amrit Kumar Nayak - Aspiring AI Engineer" width="100%"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ## 🧭 Where I'm headed
 
 <p align="center">
-  <img src="assets/roadmap.svg" alt="Roadmap: Python, DSA, AI" width="100%"/>
+  <img src="roadmap.svg" alt="Roadmap: Python, DSA, AI" width="100%"/>
 </p>
 
 ## 🚀 Projects
@@ -30,7 +30,7 @@
 Ask questions over a document corpus and get answers that **cite the exact sources** behind them.
 
 <p align="center">
-  <img src="assets/rag-pipeline.svg" alt="RAG pipeline" width="100%"/>
+  <img src="rag-pipeline.svg" alt="RAG pipeline" width="100%"/>
 </p>
 
 - **Hybrid retrieval:** BM25 keyword search plus Chroma vector search, merged and ranked
