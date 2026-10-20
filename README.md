@@ -5,11 +5,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/amritkn2244"><img src="https://img.shields.io/badge/LinkedIn-amritkn2244-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/amritkn2244/"><img src="https://img.shields.io/badge/LeetCode-amritkn2244-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://x.com/amritkn2244"><img src="https://img.shields.io/badge/X-follow%20my%20journey-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:amritkn2244@gmail.com"><img src="https://img.shields.io/badge/Email-amritkn2244%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
-<!-- Add your X link here once the account is live:
-<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-follow%20my%20journey-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a> -->
 
 ## 👋 Hey, I'm Amrit
 
@@ -90,7 +88,3 @@ I'm the **Production Team Lead at my college's E-Cell**, running content from co
 
 I'm open to AI/ML internships and always happy to hear advice from people already working in the field. Reach me on [LinkedIn](https://linkedin.com/in/amritkn2244) or at amritkn2244@gmail.com.
 
-<p align="center">
-  <a href="https://www.instagram.com/amritt_kn"><img src="https://img.shields.io/badge/Instagram-amritt__kn-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/c/a3rixedits"><img src="https://img.shields.io/badge/YouTube-a3rixedits-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-</p>
