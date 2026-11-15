@@ -128,6 +128,16 @@ A Discord bot that handles moderation (kick, ban, mute and more) and doubles as 
 
 I'm the **Production Team Lead at my college's E-Cell**, running content from concept to delivery for college-wide events. Years of client work taught me to take feedback well and meet deadlines, and I bring the same ownership to every project.
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amritkn2244/amritkn2244/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amritkn2244/amritkn2244/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/amritkn2244/amritkn2244/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
 ## 💬 Let's talk
 
 I'm open to AI/ML internships and always happy to hear advice from people already working in the field. Reach me on [LinkedIn](https://linkedin.com/in/amritkn2244) or at amritkn2244@gmail.com.
