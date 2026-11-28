@@ -25,21 +25,22 @@
 
 ## 🚀 Projects
 
-### 🔎 Production-Grade RAG System with Observability &nbsp;`in progress`
+### 🔎 RetrievIQ: Hybrid RAG System with Verified Citations
 
-Ask questions over a document corpus and get answers that **cite the exact sources** behind them.
+Ask questions over a document corpus and get answers that **cite the exact sources** behind them, with every citation independently re-checked before the answer is shown.
 
-- **Hybrid retrieval:** BM25 keyword search plus Chroma vector search, merged and ranked
-- **Quality is measured:** every change is scored with Ragas for faithfulness and answer relevancy
-- **Everything is traced:** Langfuse follows each request end to end
-- **Deploys are gated:** a GitHub Actions pipeline blocks releases when quality regresses
+- **Hybrid retrieval:** BM25 keyword search plus Chroma vector search, fused with Reciprocal Rank Fusion, with an optional cross-encoder reranking stage
+- **Citations are verified, not trusted:** a second model checks every citation against its source chunk and computes a confidence score, refusing to answer when it's too low
+- **Quality is measured, not assumed:** a hand-verified 99-query evaluation set tracks recall, MRR, and nDCG; hybrid retrieval hit 100% recall@5 and recall@10
+- **Deploys are gated:** a GitHub Actions pipeline blocks releases if retrieval quality regresses — deliberately proven by breaking it once, on purpose
+- **Fully Dockerized**, verified end-to-end; demoed locally rather than hosted live, after evaluating four free hosting options and ruling each out for a specific, documented reason
+
+**[🌐 Live demo](https://retrieviq.amritnayak.in)** &nbsp;·&nbsp; **[📂 Source code](https://github.com/amritkn2244/retrieviq)**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-FF6446?style=flat-square)
-![Ragas](https://img.shields.io/badge/Ragas-evaluation-7C3AED?style=flat-square)
-![Langfuse](https://img.shields.io/badge/Langfuse-tracing-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### 🧘 MindSync: AI-Powered Mental Wellness Platform
